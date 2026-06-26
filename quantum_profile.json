@@ -1,0 +1,48 @@
+{
+    "player_name": "TRM",
+    "current_theme": "orange",
+    "total_points": 3064,
+    "solve_streak": 5,
+    "session_history": [
+        {
+            "timestamp": "09:20",
+            "size": "4x4",
+            "mode": "Manual",
+            "time": "00:28",
+            "accuracy": "100%",
+            "score": 1572
+        },
+        {
+            "timestamp": "09:28",
+            "size": "4x4",
+            "mode": "Custom",
+            "time": "00:26",
+            "accuracy": "PERFECT",
+            "score": 248
+        },
+        {
+            "timestamp": "09:37",
+            "size": "4x4",
+            "mode": "Custom",
+            "time": "00:24",
+            "accuracy": "PERFECT",
+            "score": 252
+        },
+        {
+            "timestamp": "09:37",
+            "size": "4x4",
+            "mode": "Daily",
+            "time": "00:33",
+            "accuracy": "PERFECT",
+            "score": 234
+        },
+        {
+            "timestamp": "11:53",
+            "size": "4x4",
+            "mode": "Custom",
+            "time": "00:21",
+            "accuracy": "WIN",
+            "score": 258
+        }
+    ]
+}
